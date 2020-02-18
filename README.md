@@ -5,3 +5,4 @@ Le classic c'est la vie ! Hugo
 la besse! la bouillabaisse !! Allez L'OM !! ^^ Seb
 De la balle
 Salut salut
+La puissance du port du Havre!! La culture de la béterave ;) 
