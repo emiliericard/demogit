@@ -19,10 +19,7 @@ Le foot c'est de la merde !!!!!
 Hello World !
 Hallo Welt !
 Ciao mondo !
-
-test1!!!!!
-
-
-BONSOIR C'EST HUGO!
+你好，世界 ！
+こんにちは世界 ！
 
 c'est la CRISE!! ramène ta CARTE GRISE !!! ^^
