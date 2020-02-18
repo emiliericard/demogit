@@ -16,3 +16,5 @@ GG à tous ! :)
 Hello World !
 Hallo Welt !
 Ciao mondo !
+
+VITALIC c'est la base ;)
