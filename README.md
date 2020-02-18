@@ -23,5 +23,6 @@ Ciao mondo !
 こんにちは世界 ！
 Pozdrav svijete !
 Сайн уу!
+Გამარჯობა მსოფლიო !
 
 c'est la CRISE!! ramène ta CARTE GRISE !!! ^^
