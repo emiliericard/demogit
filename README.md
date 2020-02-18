@@ -21,5 +21,6 @@ Hallo Welt !
 Ciao mondo !
 你好，世界 ！
 こんにちは世界 ！
+Pozdrav svijete !
 
 c'est la CRISE!! ramène ta CARTE GRISE !!! ^^
