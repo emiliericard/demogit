@@ -34,3 +34,6 @@ c'est la CRISE!! ramène ta CARTE GRISE !!! ^^
 
 Hello world !
 How are you ?
+
+Les antibiotiques, c'est pas automatique.
+LES INDENTATIONS C'EST UNE OBLIGATION !
