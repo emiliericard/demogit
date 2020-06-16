@@ -1,3 +1,8 @@
 messages:
 remy:ioupi
+pascale:yep
+Huy : pour le bien suprême!
 julien:hello
+olivier: feature oh
+Huy: Hello there!
+
