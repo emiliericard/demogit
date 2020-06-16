@@ -1,3 +1,7 @@
 messages:
 remy:ioupi
+<<<<<<< HEAD
 Huy : pour le bien suprême!
+=======
+julien:hello
+>>>>>>> 76c20795763de5ea2c139670d0c2b4131c8e2aea
