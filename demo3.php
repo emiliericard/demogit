@@ -1,1 +1,2 @@
-echo "houra"
+$houra = "houra"
+echo $houra
