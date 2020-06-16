@@ -1,5 +1,1 @@
-David Laclef - DWWM2
-
-J'ai changé mon message de commit car inutile de mettre : 
-// initialisation de $i à 0
-$i = 0;
+Bonjour :D
