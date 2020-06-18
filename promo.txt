@@ -1,6 +1,6 @@
 messages:
 remy:ioupi
-pascale:yep
+pascale:yepyep
 Huy : pour le bien suprême!
 julien:hello
 olivier: feature oh
